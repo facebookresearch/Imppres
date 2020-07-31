@@ -13,7 +13,7 @@ All subdatasets have fields `sentence1`, `sentence2` corresponding to premise an
 
 The 'results' folder contains main results and basic scripts. Main results can be found in `presuppositions_results.zip` (571 KB) and `scalar_implicature_results.zip` (543 KB) files. For presuppositions, a summary of the presupposition results can also be found in `presupposition_results_summary.csv`. This file is the output of the script `summarize_presupposition_results.py` as applied to the results files inside `presuppositions_results.zip`. 
 
-Also provided is an `.xlsx` file containing 200 randomly selected examples from MultiNLI matched development set that were hand annotated by semanticists for the presence of the relevant implicatures and presuppositions (`Annot_agreement_repo.xlsx`).
+Also provided is an `.xlsx` file containing 200 randomly selected examples from MultiNLI matched development set that were hand annotated by semanticists for the presence of the relevant implicatures and presuppositions (`Annot_agreement.xlsx`).
 
 ## Citation
 
