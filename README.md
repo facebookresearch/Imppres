@@ -38,4 +38,8 @@ Also provided is an `.xlsx` file containing 200 randomly selected examples from 
 
 ## License
 
-IMPPRES is available under a Creative Commons Attribution-NonCommercial 4.0 International Public License. Please see the LICENSE file for more information before you use the dataset. 
+IMPPRES is available under a Creative Commons Attribution-NonCommercial 4.0 International Public License ("The License"). You may not use these files except in compliance with the License. Please see the LICENSE file for more information before you use the dataset. 
+
+## Contributing
+
+IMPPRES is not accepting contributions at this time. If you would like to get involved with data creation efforts, please contact the authors.
